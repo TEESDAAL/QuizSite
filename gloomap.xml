@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gloomaps scheme="1.0">
+  <link>https://www.gloomaps.com/YEofcMcqAF</link>
+  <pubdate>05/20/2021</pubdate>
+  <section>
+    <box>
+      <text>Home Page</text>
+      <member>
+        <box>
+          <text>Quizzes</text>
+          <member>
+            <box>
+              <text>Quiz1</text>
+              <member/>
+            </box>
+            <box>
+              <text>Quiz2</text>
+              <member/>
+            </box>
+            <box>
+              <text>Quiz3</text>
+              <member/>
+            </box>
+            <box>
+              <text>Page</text>
+              <member/>
+            </box>
+            <box>
+              <text>Page</text>
+              <member/>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>Information</text>
+          <member>
+            <box>
+              <text>Page</text>
+              <member/>
+            </box>
+          </member>
+        </box>
+      </member>
+    </box>
+  </section>
+</gloomaps>
