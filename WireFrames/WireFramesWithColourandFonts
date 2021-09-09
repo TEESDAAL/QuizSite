@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T09:07:23.609Z" agent="5.0 (Windows)" etag="4xd1y_nwOkW-_7qce99Y" version="14.8.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-09T05:55:59.980Z" agent="5.0 (Windows)" etag="c5rZtGL-ZLW8cnjqyw7p" version="14.9.8" type="github" pages="5">
   <diagram id="Gy0f1lu1pzI_-HyH94-t" name="QuizSelect">
-    <mxGraphModel dx="1102" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#020040" math="0" shadow="0">
+    <mxGraphModel dx="1837" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#020040" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,7 +227,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BR5j5VPW7QBpyog-bGfh" name="MultiChoice">
-    <mxGraphModel dx="1929" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#26273B" math="0" shadow="0">
+    <mxGraphModel dx="2664" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#26273B" math="0" shadow="0">
       <root>
         <mxCell id="U4A5B87a6GfhTWFe6VBO-0" />
         <mxCell id="U4A5B87a6GfhTWFe6VBO-1" parent="U4A5B87a6GfhTWFe6VBO-0" />
@@ -454,7 +454,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="924a7d_DgU3asSMsA3LD" name="Text Enter">
-    <mxGraphModel dx="4408" dy="3617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="1781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="O37N6eN2jnSH-fBOnK9k-0" />
         <mxCell id="O37N6eN2jnSH-fBOnK9k-1" parent="O37N6eN2jnSH-fBOnK9k-0" />
